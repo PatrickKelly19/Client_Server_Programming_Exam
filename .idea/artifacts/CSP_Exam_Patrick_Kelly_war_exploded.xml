@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CSP Exam Patrick Kelly:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSP_Exam_Patrick_Kelly_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CSP Exam Patrick Kelly/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CSP Exam Patrick Kelly" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Documents/GMIT Year 5 Sem 9/Client-Server Programming/Server_Client_Labs/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
